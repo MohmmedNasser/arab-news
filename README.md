@@ -4,7 +4,9 @@
 - arab news is the best for news showcase.
 
 
-*** Features
+
+
+Features :
 - Bootstrap 3 framework
 - Font Awesome Version 4.7.0 Icons
 - Magnific-Popup library
@@ -23,7 +25,11 @@
 
 
 
-*** Credits :
+
+
+
+
+Credits :
 - jQuery
 - Bootstrap 3
 - Free fontawesome 4
@@ -34,14 +40,18 @@
 - Typed
 
 
-*** 3 Main page :
+
+
+3 Main page :
 - Home: index.html
 - category.html
 - article.html
 
 
 
-*** Link
+
+
+Link :
 - http://arab-news.surge.sh/index.html
 - http://arab-news.surge.sh/category.html
 - http://arab-news.surge.sh/article.html
